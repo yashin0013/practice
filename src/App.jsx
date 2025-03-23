@@ -1,11 +1,14 @@
-import BgChange from "./components/BgChange"
+// import BgChange from "./components/BgChange"
+
+import PasswordGenerator from "./components/PassGen.jsx";
 
 function App() {
 
   return (
     <>
-     <h3>Basic React Projects</h3>
-     <BgChange />
+     {/* <h3 className="">Basic React Projects</h3> */}
+     {/* <BgChange /> */}
+     <PasswordGenerator />
     </>
   )
 }

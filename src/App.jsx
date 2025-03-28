@@ -1,6 +1,6 @@
 // import BgChange from "./components/BgChange"
-
-import PasswordGenerator from "./components/PassGen.jsx";
+// import PasswordGenerator from "./components/PassGen.jsx";
+import CurrencyConverter from "./CurrencyConverter.jsx";
 
 function App() {
 
@@ -8,7 +8,8 @@ function App() {
     <>
      {/* <h3 className="">Basic React Projects</h3> */}
      {/* <BgChange /> */}
-     <PasswordGenerator />
+     {/* <PasswordGenerator /> */}
+     <CurrencyConverter />
     </>
   )
 }
